@@ -16,7 +16,7 @@
       "alertType": "warning",
       "timeout": "10",
       "title": "Warning!",
-      "message": "This message will warn the user of of an issue that requires their attention (unsaved application .etc)"
+      "message": "This message will warn the user of an issue that requires their attention (unsaved application .etc)"
     },
     {
       "alertType": "error",
